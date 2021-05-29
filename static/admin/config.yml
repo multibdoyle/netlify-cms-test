@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: netlify-cms-test
   branch: master
 
   media_folder: "images/uploads"
